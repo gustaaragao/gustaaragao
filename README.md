@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">A passionate software developer and Computer Science student</h3>
+<h1 align="center">Olá 👋, eu sou o Gustavo</h1>
+<h3 align="center">Desenvolvedor de Software e estudante de Ciência da Computação</h3>
 
 ---
 
-### 🛠️ Languages & Tools
+- 🎓 **Graduando em Ciência da Computação** pela [**Universidade Federal de Sergipe (UFS)**](https://www.ufs.br/)
+- 🤝 **Membro Efetivo** da [**Liga Acadêmica de Desenvolvimento Web (LAWD)**](https://github.com/Lawd-UFS)
+- 💼 **Desenvolvedor Full-stack** na [**Procuradoria Geral do Município de Aracaju (PGM-Aracaju)**](https://www.aracaju.se.gov.br/).
+- 💻 Entusiasta em **Programação Competitiva**
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 
 ![Languages & Tools](https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts,vuejs,pinia,tailwind,docker,linux,grafana,arduino,raspberrypi,c,cpp,opencv,selenium,postgres,sqlite&perline=10)
 
 ---
 
-### 📫 Where to find me
+### 📫 Onde me encontrar
 
 <div style="display: flex; gap: 10px;">
   <a 
@@ -24,16 +31,15 @@
     />
   </a>
   <a 
-    href="https://stackoverflow.com/users/gustavohenriquearagaosilva" 
+    href="https://www.leetcode.com/gustavohenriquearagaosilva" 
     target="blank"
   >
     <img 
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      align="center" 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
       alt="gustavohenriquearagaosilva" 
       height="30" 
-      width="40" 
-    />
+      width="40" />
   </a>
   <a 
     href="https://kaggle.com/gustaaragao" 
@@ -63,11 +69,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoaragao&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoaragao&layout=compact&theme=radical)
-
----
-
-✨ Thanks for stopping by! Feel free to explore my repositories and reach out 😄
+<p align="center"><em>“See you, space cowboy...”</em> 🛰️</p>
